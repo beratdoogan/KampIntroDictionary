@@ -1,2 +1,2 @@
-# Kamp-ntroDictionary
+# KampIntroDictionary
 Kamp 4.gün ödevi 
